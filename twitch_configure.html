@@ -1,0 +1,16 @@
+<template name="configureLoginServiceDialogForTwitch">
+  <ol>
+    <li>
+      Visit <a href="http://www.twitch.tv/settings?section=applications" target="_blank">http://www.twitch.tv/settings?section=applications</a>
+    </li>
+    <li>
+      Register a new Application
+    </li>
+    <li>
+      Give it a name. This name will be shown to users when they login and authorize access to their account. 
+    </li>
+    <li>
+      Set Redirect URI to: <span class="url">{{siteUrl}}_oauth/twitch?close</span>
+    </li>
+  </ol>
+</template>
