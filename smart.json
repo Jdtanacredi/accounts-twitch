@@ -1,0 +1,8 @@
+{
+	"name": "accounts-twitch",
+	"description": "Login service for Twitch.tv accounts",
+	"homepage": "http://github.com/boingy/accounts-twitch",
+	"author": "boingy",
+	"version": "0.1.0",
+	"git": "https://github.com/boingy/accounts-twitch.git"
+}
