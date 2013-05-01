@@ -2,8 +2,11 @@
 
 Meteor.js Accounts package for Twitch.tv accounts
 
+## Demo
+To see a simple demo/tutorial app made using this package take a look at [accounts-twitch-sample-app](https://github.com/boingy/accounts-twitch-sample-app). It does a better job explaining how it works than this readme does. It is also hosted online [http://accounts-twitch.meteor.com/](http://accounts-twitch.meteor.com/) 
+
 ## Installation
-- Install [Meteorite](https://atmosphere.meteor.com/)
+- Install [Meteorite](https://github.com/oortcloud/meteorite/)
 - Run `mrt add accounts-twitch` in a Meteor project.
 - Run your app with `mrt`
 - Alternatively clone the repo to your meteor packages folder,  `/usr/local/meteor/packages` by default on OSX.
